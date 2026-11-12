@@ -1,18 +1,23 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais Conversacional com Design Universal
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+O aplicativo é um **Assistente Financeiro Conversacional**, que organiza finanças pessoais por meio de diálogos em linguagem natural. O objetivo é simplificar o controle de gastos e metas sem depender de formulários complexos ou planilhas.
 
-## ✨ O que é Vibe Coding
+## 🔹 O que é Vibe Coding?
 
-**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
+**O Vibe Coding** é uma abordagem criativa de programação onde você explora **ideias de forma fluida e experimental**, **sem se prender a regras rígidas**.
 
-> Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
+É sobre sentir o fluxo da criação.
+Usar ferramentas como o Lovable para prototipar rápido.
+Misturar design, código e interação em tempo real.
+Ideal para aprender e testar conceitos sem medo de errar.
+
+Pense nele como improvisar música: você segue a vibe, experimenta e ajusta até encontrar algo que funciona bem.
+
 
 ## 🎯 Desafio
 
-Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
+Problema: Usuários desistem de controlar suas finanças porque os apps atuais exigem entrada manual excessiva e oferecem pouca personalização. Isso gera frustração e abandono. O app busca resolver esse problema com uma experiência fluida de conversa e recomendações automáticas.
 
-Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
 
 > [!IMPORTANT]
 > Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
@@ -31,22 +36,34 @@ Quero criar um aplicativo de Organização de Finanças Pessoais que funcione po
 A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
 
 # Problema
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+Usuários desistem de controlar suas finanças porque os apps atuais exigem entrada manual excessiva e oferecem pouca personalização. Isso gera frustração e abandono. O app busca resolver esse problema com uma experiência fluida de conversa e recomendações automáticas.
 
 # Público-Alvo
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+- Pessoas iniciantes no controle financeiro.
+- Usuários que desejam praticidade e simplicidade.
+- Pessoas que preferem interações naturais em vez de interfaces tradicionais.
+- Inclusão ampliada: pessoas com diferentes níveis de alfabetização digital, necessidades de acessibilidade (ex.: visão reduzida, dificuldades motoras) e preferências diversas.
 
 # Funcionalidades-Chave
-1. Registrar gastos via chat em linguagem natural.  
-2. Classificar automaticamente as transações.  
-3. Definir e acompanhar metas financeiras.  
-4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.
+1. Registro via chat: Inserir gastos e receitas em linguagem natural.
+2. Classificação automática: Categorizar despesas sem esforço manual.
+3. Agente Financeiro: Recomendações personalizadas de economia.
+4. Relatórios simples: Visualizações claras e adaptadas ao perfil do usuário.  
+5. Design Universal: Interfaces acessíveis, linguagem clara, suporte a diferentes dispositivos e opções de acessibilidade.
+6. Interatividade: Sugestões rápidas, botões de ação e feedback dinâmico.
+7. Visual chamativo: Cores vivas, ícones intuitivos e gráficos simples.
 
 # Entregável da IA
-Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
-Usar tom educativo e linguagem acessível, em português.
+- Principais telas: - Tela de boas-vindas inclusiva e chamativa.
+- Tela de chat com suporte a voz e texto, respostas dinâmicas e atalhos rápidos.
+- Tela de metas com barra de progresso animada e mensagens motivacionais.
+- Tela de relatórios com gráficos simples e alternativas textuais.
+- Tela de configurações com opções de acessibilidade e personalização.
+- Recursos necessários: - Processamento de linguagem natural (NLP). - Motor de categorização automática.
+- Sistema de notificações e recomendações. - Recursos de acessibilidade (contraste, leitura de tela, navegação simplificada).
+- Validação inicial:
+- Testes com usuários iniciantes e com necessidades diversas.
+- Feedback sobre clareza das conversas, interatividade e acessibilidade. - Ajustes de categorias e relatórios conforme uso real.
 ```
 
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
@@ -86,4 +103,4 @@ No README do seu repositório, inclua:
 
 ## 💬 Conclusão
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+O Vibe Coding não é apenas uma forma de programar, mas uma forma de construir produtos. A ideia central é transformar uma visão em algo funcional o mais rápido possível, usando linguagem natural, IA e experimentação contínua.
