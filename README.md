@@ -1,9 +1,42 @@
 # 💸 App de Organização de Finanças Pessoais Conversacional com Design Universal
 
+  Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot  Web. A proposta é criar um aplicativo de organização finanaceira pessoal baseado em interações em linguage natural.
+
 PRD refinado no Copilot Web:
 
 ```markdown
+PRD – App de Organização de Finanças Pessoais Conversacional com Design Universal
+1. Contexto O aplicativo será um assistente financeiro conversacional, que organiza finanças pessoais por meio de diálogos em linguagem natural. O objetivo é simplificar o controle de gastos e metas sem depender de formulários complexos ou planilhas.
 
+2. Problema Usuários desistem de controlar suas finanças porque os apps atuais exigem entrada manual excessiva e oferecem pouca personalização. Isso gera frustração e abandono. O app busca resolver esse problema com uma experiência fluida de conversa e recomendações automáticas.
+
+3. Público-Alvo - Pessoas iniciantes no controle financeiro.
+- Usuários que desejam praticidade e simplicidade. - Pessoas que preferem interações naturais em vez de interfaces tradicionais.
+- Inclusão ampliada: pessoas com diferentes níveis de alfabetização digital, necessidades de acessibilidade (ex.: visão reduzida, dificuldades motoras) e preferências diversas.
+
+4. Funcionalidades-Chave
+- Registro via chat: Inserir gastos e receitas em linguagem natural.
+- Classificação automática: Categorizar despesas sem esforço manual.
+- Metas financeiras: Criar e monitorar objetivos de economia.
+- Agente Financeiro: Recomendações personalizadas de economia.
+- Relatórios simples: Visualizações claras e adaptadas ao perfil do usuário.
+- Design Universal: Interfaces acessíveis, linguagem clara, suporte a diferentes dispositivos e opções de acessibilidade.
+- Interatividade: Sugestões rápidas, botões de ação e feedback dinâmico.
+- Visual chamativo: Cores vivas, ícones intuitivos e gráficos simples.
+
+5. Entregável da IA (MVP) - Principais telas:
+- Tela de boas-vindas inclusiva e chamativa.
+- Tela de chat com suporte a voz e texto, respostas dinâmicas e atalhos rápidos.
+- Tela de metas com barra de progresso animada e mensagens motivacionais.
+- Tela de relatórios com gráficos simples e alternativas textuais.
+- Tela de configurações com opções de acessibilidade e personalização.
+- Recursos necessários: - Processamento de linguagem natural (NLP).
+- Motor de categorização automática. - Sistema de notificações e recomendações.
+- Recursos de acessibilidade (contraste, leitura de tela, navegação simplificada).
+- Validação inicial:
+- Testes com usuários iniciantes e com necessidades diversas.
+- Feedback sobre clareza das conversas, interatividade e acessibilidade.
+- Ajustes de categorias e relatórios conforme uso real.
 ```
 
 Interações com o Lovable:
@@ -33,22 +66,5 @@ Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interaç
 Aprendi que é basicamente igual ter uma boa interação com uma pessoa, quanto mais detalhe e clareza fornecer, melhor é o resultado.
 
 
-### 3. Entregando o Desafio na DIO
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
-
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-O Vibe Coding não é apenas uma forma de programar, mas uma forma de construir produtos. A ideia central é transformar uma visão em algo funcional o mais rápido possível, usando linguagem natural, IA e experimentação contínua.
